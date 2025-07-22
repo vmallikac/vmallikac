@@ -1,7 +1,9 @@
-### Hi, I'm Mallika 👋
+# Hi, I’m Mallika
 
-I'm a product marketing leader focused on developer platforms, AI, and GTM strategy. I partner with product, engineering, and sales to drive adoption, build clarity, and scale messaging. Most of my work lives outside GitHub, but I'm here to explore the platform, contribute where I can, and better understand how developers work.
+I lead product marketing for B2B SaaS platforms, with a focus on developer tools, AI products, and enterprise launches. I work closely with product, engineering, and sales to define positioning, create practical GTM strategy, and speak with technical and business audiences.
 
-🔭 Currently working on: go-to-market strategy for an AI developer platform  
-💬 Ask me about: positioning, product storytelling, enablement, VOC research  
-📫 Connect: [LinkedIn](https://linkedin.com/in/mallikac)
+My background includes GTM planning, messaging development, competitive analysis, and enablement systems. My style is highly collaborative based in open communication, accountability, and trust.
+
+You won’t find code here, but you will find structure.
+
+📫 [linkedin.com/in/mallikac](https://linkedin.com/in/mallikac)
